@@ -8,13 +8,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Drc3p0/glowbug-club-pcb">
-    <img src="images/glowbug pcb front.jpeg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Drc3p0/Glowbug-Club-PCB/blob/main/images/glowbug%20pcbs.jpg" alt="Logo" width="300" height="200">
   </a>
 
 <h3 align="center">Glowbug Club PCB</h3>
 
   <p align="center">
-    wearable PCB art
+    wearable PCB art for the community
   
   </p>
 </div>
