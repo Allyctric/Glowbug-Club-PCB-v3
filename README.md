@@ -64,7 +64,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Message me on Twitter [@Darcy_Neal](https://twitter.com/) 
+Message me on Twitter [@Darcy_Neal](https://twitter.com/Darcy_Neal)
 
 Project Link: [https://github.com/Drc3p0/Glowbug-Club-PCB]([https://github.com/github_username/repo_name)
 
