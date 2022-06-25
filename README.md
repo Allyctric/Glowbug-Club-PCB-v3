@@ -40,8 +40,8 @@ The designs are free to be redesigned however you'd like.
 ### Build it! 
 
 Components are easy to source and assemble!  
-Uses a generic AAA single battery holder x2, your favorite 5mm LED!  (we like these colorchanging ones), and this
-tiny switch to conserve your battery power
+Uses a [generic AAA single battery holder x2](https://www.mouser.com/ProductDetail/12BH412-GR), your favorite 5mm LED!  (we like these [colorchanging ones](https://www.amazon.com/Multicolor-Flashing-Changing-Electronics-Components/dp/B01C19END2/ref=sr_1_13?crid=3ENC4HC6ILEX9&keywords=slow+flash+led+5mm&qid=1654971525&sprefix=slow+flash+led+5mm%2Caps%2C144&sr=8-13)), and this
+[tiny switch](https://www.mouser.com/ProductDetail/642-MHSS1105) to conserve your battery power
 
 
 ## Contributing
@@ -64,16 +64,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Message me on Twitter [@Darcy_Neal](https://twitter.com/) 
+Message me on Twitter [@Darcy_Neal](https://twitter.com/Darcy_Neal)
 
-Project Link: [https://github.com/Drc3p0/Glowbug-Club-PCB]([https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Drc3p0/Glowbug-Club-PCB](https://github.com/Drc3p0/Glowbug-Club-PCB)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * thanks to [OshPark](https://oshpark.org) for providing the PCBs for this community project
 * thanks to the elusive [Josh](https://cat-bounce.com/) for providing power consumption data
-* thanks to there U glow camp @ [SOAK](https://soakpdx.com/) for helping distribute these boards & teach folks about LEDs
+* thanks to there U glow camp @ [SOAK](https://soakpdx.com/) for helping distribute these boards & [teach folks about LEDs](https://docs.google.com/document/d/180WD4LogMjx8FmKcFc0dmlTEKJ1Xa7dIHlEhSLMOAxA/edit?usp=sharing)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
