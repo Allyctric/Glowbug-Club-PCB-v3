@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Drc3p0/glowbug-club-pcb">
-    <img src="https://github.com/Drc3p0/Glowbug-Club-PCB/blob/main/images/glowbug%20pcbs.jpg" alt="Logo" width="300" height="200">
+    <img src="![glowbug-front-back](https://user-images.githubusercontent.com/5934416/230459363-d47de24b-671d-4072-abdd-b168fffa55e1.jpeg)" alt="Logo" width="750" height="500">
       </a>
 
 
@@ -21,8 +21,6 @@
   
   </p>
 </div>
-
-![PXL_20220524_042648484](https://user-images.githubusercontent.com/5934416/230457275-e20288e3-ff4b-4927-85a4-214ca49f1e3f.jpeg)  ![PXL_20220524_042535026](https://user-images.githubusercontent.com/5934416/230457292-4f81e4f9-3c67-4717-9eef-f19fe482a671.jpeg)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
