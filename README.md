@@ -25,8 +25,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This PCB was created as a workshop aid to teach people about LEDs and soldering, and as a way to demistify the process of importing custom art layers into Kicad.  The PCB is intended to be worn on a lanyard, as a way to keep us all glowing safely at night. It was debuted at SOAK '22 for the There U Glow electronics education camp, and provided as a soldering workshop for ToorCamp '22 participants. 
-![signal-2022-07-20-17-38-53-745-3](https://user-images.githubusercontent.com/5934416/230457240-bf5c31b6-1c2b-47c5-938b-02e747bf9f47.jpg)
 
+https://github.com/Drc3p0/Glowbug-Club-PCB/blob/main/images/signal-2022-07-20-17-38-53-745-3.jpg
 
 ### Created With
 
