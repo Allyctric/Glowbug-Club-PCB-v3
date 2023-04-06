@@ -11,9 +11,6 @@
     <img src="https://github.com/Drc3p0/Glowbug-Club-PCB/blob/main/images/glowbug%20pcbs.jpg" alt="Logo" width="300" height="200">
       </a>
 
-<img src="![PXL_20220524_042648484](https://user-images.githubusercontent.com/5934416/230457275-e20288e3-ff4b-4927-85a4-214ca49f1e3f.jpeg)" width="100" height="200">
-<img src="![PXL_20220524_042535026](https://user-images.githubusercontent.com/5934416/230457292-4f81e4f9-3c67-4717-9eef-f19fe482a671.jpeg)" width="100" height="200">
-
 
 
 
@@ -24,6 +21,9 @@
   
   </p>
 </div>
+
+<img src="![PXL_20220524_042648484](https://user-images.githubusercontent.com/5934416/230457275-e20288e3-ff4b-4927-85a4-214ca49f1e3f.jpeg)" width="100" height="200">
+<img src="![PXL_20220524_042535026](https://user-images.githubusercontent.com/5934416/230457292-4f81e4f9-3c67-4717-9eef-f19fe482a671.jpeg)" width="100" height="200">
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
