@@ -10,6 +10,9 @@
   <a href="https://github.com/Drc3p0/glowbug-club-pcb">
     <img src="https://github.com/Drc3p0/Glowbug-Club-PCB/blob/main/images/glowbug%20pcbs.jpg" alt="Logo" width="300" height="200">
   </a>
+![PXL_20220524_042648484](https://user-images.githubusercontent.com/5934416/230457275-e20288e3-ff4b-4927-85a4-214ca49f1e3f.jpeg)
+![PXL_20220524_042535026](https://user-images.githubusercontent.com/5934416/230457292-4f81e4f9-3c67-4717-9eef-f19fe482a671.jpeg)
+
 
 <h3 align="center">Glowbug Club PCB</h3>
 
@@ -21,7 +24,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This PCB was created as a workshop aid to teach people about LEDs and soldering, and as a way to demistify the process of importing custom art layers into Kicad.  The PCB is intended to be worn on a lanyard, as a way to keep us all glowing safely at night.
+This PCB was created as a workshop aid to teach people about LEDs and soldering, and as a way to demistify the process of importing custom art layers into Kicad.  The PCB is intended to be worn on a lanyard, as a way to keep us all glowing safely at night. It was debuted at SOAK '22 for the There U Glow electronics education camp, and provided as a soldering workshop for ToorCamp '22 participants. 
+![signal-2022-07-20-17-38-53-745-3](https://user-images.githubusercontent.com/5934416/230457240-bf5c31b6-1c2b-47c5-938b-02e747bf9f47.jpg)
+
 
 ### Created With
 
